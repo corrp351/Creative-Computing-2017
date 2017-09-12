@@ -1,0 +1,25 @@
+<Books>
+	<My-favorites>
+		<Harry-Potter>
+			<The-Prisoner-of-Azkaban>
+			<The-Order-of-The-Pheonix>
+			<The-Half-Blood-Prince>
+			<The-Cursed-Child>
+		</Harry-Potter>
+		<The-Mortal-Instruments>
+			<City-of-Bones>
+		</The-Mortal-Instruments>
+		<The-Chronicles-of-Narnia>
+			<The-Lion-The-Witch-and-The-Wardrobe>
+			<Prince-Caspian>
+			<Voyage-of-the-Dawn-Treader>
+			<The-Magicians-Nephew>
+		</The-Chronicles-of-Narnia>
+		<Classics>
+			<The-Secret-Garden>
+			<The-Little-Princess>
+			<Pride-and-Prejudice>
+			<The-Beginning-of-Wisdom>
+		</Classics>
+	</My-Favorites>
+</Books>
