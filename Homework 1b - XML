@@ -1,0 +1,29 @@
+<Typical-Lunch>
+	<Sandwich>
+		<Hard-roll>
+			<Tuna-Salad>
+			<Lettuce>
+			<Tomato>
+			<hot-sauce>
+		</Hard-roll>
+	</Sandwich>
+	<Sides>
+		<Chips>
+			<Potato-Chips>
+		</Chips>
+		<Pickle>
+		</Pickle>
+		<Fruit-Salad>
+			<Watermelon>
+			<Strawberries>
+			<Honeydew-Melon>
+			<Grapes>
+			<Raspberries>
+			<Blueberries>
+		</Fruit-Salad>
+	<Drink>
+		<Milk>
+			<Chocolate-Milk>
+		</Milk>
+	</Drink>
+</Typical-Lunch>
