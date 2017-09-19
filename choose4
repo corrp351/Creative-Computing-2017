@@ -1,0 +1,15 @@
+<html>
+<body>
+	<br>
+	<br>
+	<br>
+	<center><img src="../Choose Your own Adventure Story/rocks.jpg" width="600"></a></center>
+	<br>
+	<font color="brown">
+	<center>When you reach the top, you hear two distinct noises coming from either side of the cave: on the left you hear heavy breathing and soft growls going along with the beat of the breathing, on the right you hear soft whinnying...which side will you choose to follow?</center>
+	<br>
+	<center><a href="../Choose Your own Adventure Story/choose9">Left</a></center>
+	<center>or</center>
+	<center><a href="../Choose Your own Adventure Story/choose8">Right</a></center>
+</body>
+</html>
