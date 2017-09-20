@@ -1,0 +1,17 @@
+<html>
+<body>
+	<br>
+	<br>
+	<center><h1>You walk up the stairs and are now inside the cave...</h1></center>
+	<br>
+	<center><img src="../Choose Your own Adventure Story/Images/inside cave.jpg" width=350</center>
+	<br>
+	<br>
+	<br>
+	<center>The sunlight shines in on the cave so you can see there are two ways you can choose to continue...</center>
+	<br>
+	<center><a href="../Choose Your own Adventure Story/choose3aa">Go deeper inside the cave by jumping into the water...</a></center>
+	<center>OR</center>
+	<center><a href="../Choose Your own Adventure Story/choose4">Climb up the rocks to go deeper inside the cave on land</a></center>
+</body>
+</html>
