@@ -1,11 +1,14 @@
 <html>
+<head>
+	<title>Choose Your Own Adventure Story</title>
+<link rel="stylesheet" href="StoryStyle.css">
+</head>
 <body>
 	<br>
 	<br>
-	<center><img src="../Choose Your own Adventure Story/Images/Cave Entrance.jpg" width="300"></a></center>
+	<center><img src="../Choose Your own Adventure Story/Images/Cave Entrance.jpg" width="360"></a></center>
 	<br>
-	<br>
-	<br>
-	<center><a href="choose2a">Enter</a></center>
+	<center><a href="choose2a">Enter...</a></center>
+	<p id="background1"></p>
 </body>
 </html>

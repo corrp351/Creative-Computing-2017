@@ -1,9 +1,13 @@
 <html>
+<head>
+	<title>Choose Your Own Adventure Story</title>
+<link rel="stylesheet" href="../StoryStyle.css">
+</head>
 <body>
 	<br>
 	<br>
 	<br>
-	<center><img src="../Images/cave house.jpg" width="500"></a></center>
+	<center><img src="../Images/cave house.jpg" width="700"></a></center>
 	<br>
 	<font color="turquoise">
 	<center>You build a house and you live there happily ever after.</center>
@@ -11,5 +15,6 @@
 	<br>
 	<font color="black">
 	<center><a href="../Index.html">The End</center>
+	<p id="background10"></p>
 </body>
 </html>

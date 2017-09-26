@@ -1,0 +1,45 @@
+h1{
+	font-family: fantasy;
+}
+a{
+	font-family: fantasy;
+	font-style: italic;
+	color: #F0F8FF;
+}
+a:hover{
+	font-style: normal;
+}
+body{
+	background-color: #00004d;
+	font-family: arial;
+}
+#background1{
+	background-color:  #2E8B57;
+}
+#background2{
+	background-color: #2F4F4F;
+}
+#background3{
+	background-color: #778899;
+}
+#background4{
+	background-color: #000;
+}
+#background5{
+	background-color: #0000CD;
+}
+#background6{
+	background-color: #09092a;
+}
+#background7{
+	background-color: #32CD32;
+}
+#background8{
+	background-color: #2d004d
+}
+#background9{
+	background-color: #ffa500;
+}
+#background10{
+	background-color: #ccffff;
+}

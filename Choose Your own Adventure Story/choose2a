@@ -1,10 +1,13 @@
 <html>
+<head>
+	<title>Choose Your Own Adventure Story</title>
+<link rel="stylesheet" href="StoryStyle.css">
+</head>
 <body>
-	<br>
-	<br>
+	<font color="white">
 	<center><h1>You walk up the stairs and are now inside the cave...</h1></center>
 	<br>
-	<center><img src="../Choose Your own Adventure Story/Images/inside cave.jpg" width=350</center>
+	<center><img src="../Choose Your own Adventure Story/Images/inside cave.jpg" width=550</center>
 	<br>
 	<br>
 	<br>
@@ -12,6 +15,7 @@
 	<br>
 	<center><a href="../Choose Your own Adventure Story/choose3aa">Go deeper inside the cave by jumping into the water...</a></center>
 	<center>OR</center>
-	<center><a href="../Choose Your own Adventure Story/choose4">Climb up the rocks to go deeper inside the cave on land</a></center>
+	<center><a href="../Choose Your own Adventure Story/choose4">Climb up the rocks to go deeper inside the cave on land...</a></center>
+	<p id="background2"></p>
 </body>
 </html>

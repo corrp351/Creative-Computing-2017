@@ -1,13 +1,16 @@
 <html>
+<head>
+	<title>Choose Your Own Adventure Story</title>
+<link rel="stylesheet" href="StoryStyle.css">
+</head>
 <body>
 	<br>
-	<br>
-	<br>
-	<center><img src="../Choose Your own Adventure Story/Images/hole underwater.jpg" width="300"></a></center>
+	<center><img src="../Choose Your own Adventure Story/Images/hole underwater.jpg" width="400"></a></center>
 	<br>
 	<font color="turquoise">
 	<center>As you swim deeper into the hole you realize you are swimming into a beautiful grotto filled with light and space.</center>
 	<br>
-	<center><a href="../Choose Your own Adventure Story/choose7a">Keep Swimming</a></center>
+	<center><a href="../Choose Your own Adventure Story/choose7a">Keep Swimming...</a></center>
+	<p id="background5"></p>
 </body>
 </html>
