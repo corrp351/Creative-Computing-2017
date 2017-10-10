@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html, body {
+	width:100%;
+	height:100%;
+	margin:0;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #99ffcc
+}
+
+.bigcircle{
+	background-color: #B23911;
+	width:120vmin;
+	height:100vmin;
+	border-radius:30%;
+	float:center;
+	position:absolute;
+	top:0%;
+	left:24%;
+}
+
+.square1{
+	background-color: #ff0066;
+	width:80vmin;
+	height:80vmin;
+	float:center;
+	position:absolute;
+	top:9%;
+	left:33%;
+}
+
+.square2{
+	background-color: #660033;
+	width:60vmin;
+	height:60vmin;
+	float:center;
+	position:absolute;
+	top:19.5%;
+	left:38.5%;
+}
+
+.square3{
+	background-color: #6600ff;
+	width:40vmin;
+	height:40vmin;
+	float:center;
+	position:absolute;
+	top:29.5%;
+	left:44%;
+}
+
+.circle1{
+	background-color: #ff3300;
+	width:30vmin;
+	height:30vmin;
+	border-radius:50%;
+	float:center;
+	position:absolute;
+	top:34.5%;
+	left:47%;
+}
+
+.circle2{
+	background-color: #0000cc;
+	width:15vmin;
+	height:15vmin;
+	border-radius:50%;
+	float:center;
+	position:absolute;
+	top:42%;
+	left:51%;
+}
+
+@keyframes squareacolorchange{
+25% {background-color: #ff0066; transform:rotate(90deg);}
+50% {background-color: #35cc33; transform:rotate(180deg);}
+75% {background-color: #ff0066; transform:rotate(270deg);}
+100% {background-color: #35cc33; transform:rotate(360deg);}
+}
+
+@keyframes squarebcolorchange{
+25% {background-color: #660033; transform:rotate(90deg);}
+50% {background-color: #ffff00; transform:rotate(180deg);}
+75% {background-color: #660033; transform:rotate(270deg);}
+100% {background-color: #ffff00; transform:rotate(360deg);}
+}
+
+@keyframes squareccolorchange{
+25% {background-color: #6600FF; transform:rotate(90deg);}
+50% {background-color: #ffEE25; transform:rotate(180deg);}
+75% {background-color: #6600ff; transform:rotate(270deg);}
+100% {background-color: #ffEE25; transform:rotate(360deg);}
+}
+
+@keyframes circleacolorchange{
+25% {background-color: #ff0066; transform:scale(1,1.25);}
+50% {background-color: #00ccff; transform:initial;}
+75% {background-color: #ff0066; transform:scale(1,1.25);}
+100% {background-color: #00ccff; transform:initial;}
+}
+
+@keyframes circlebcolorchange{
+25% {background-color: #ff0066; transform:rotateX(90deg);}
+50% {background-color: #35cc33; transform:rotateX(180deg);}
+75% {background-color: #ff0066;transform:rotateX(270deg);}
+100% {background-color: #35cc33; transform:rotateX(360deg);}
+}
+
+.anim{
+	animation:squareacolorchange 4s infinite;
+}
+
+.anima{
+	animation:squarebcolorchange 2s infinite;
+	animation-direction: reverse;
+}
+
+.animb{
+	animation:squareccolorchange 3s infinite;
+}
+
+.animc{
+	animation:circleacolorchange 4s infinite;
+}
+
+.animd{
+	animation:circlebcolorchange 2s infinite;
+}
+
+</style>
+</head>
+<body>
+
+<div class="bigcircle"></div>
+<div class="square1 anim"></div>
+<div class="square2 anima"></div>
+<div class="square3 animb"></div>
+<div class="circle1 animc"></div>
+<div class="circle2 animd"></div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
