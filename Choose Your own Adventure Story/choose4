@@ -12,9 +12,9 @@
 	<font color="tan">
 	<center>When you reach the top, you hear two distinct noises coming from either side of the cave: on the left you hear heavy breathing and soft growls going along with the beat of the breathing, on the right you hear soft whinnying...which side will you choose to follow?</center>
 	<br>
-	<center><a href="../Choose Your own Adventure Story/Endings/choose9">Left...</a></center>
+	<center><a href="../Choose Your own Adventure Story/Endings/choose9.html">Left...</a></center>
 	<center>OR</center>
-	<center><a href="../Choose Your own Adventure Story/Endings/choose8">Right...</a></center>
+	<center><a href="../Choose Your own Adventure Story/Endings/choose8.html">Right...</a></center>
 	<p id="background4"></p>
 </body>
 </html>
