@@ -13,9 +13,9 @@
 	<br>
 	<center>The sunlight shines in on the cave so you can see there are two ways you can choose to continue...</center>
 	<br>
-	<center><a href="../Choose Your own Adventure Story/choose3aa">Go deeper inside the cave by jumping into the water...</a></center>
+	<center><a href="../Choose Your own Adventure Story/choose3aa.html">Go deeper inside the cave by jumping into the water...</a></center>
 	<center>OR</center>
-	<center><a href="../Choose Your own Adventure Story/choose4">Climb up the rocks to go deeper inside the cave on land...</a></center>
+	<center><a href="../Choose Your own Adventure Story/choose4.html">Climb up the rocks to go deeper inside the cave on land...</a></center>
 	<p id="background2"></p>
 </body>
 </html>
