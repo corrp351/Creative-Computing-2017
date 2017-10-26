@@ -12,9 +12,9 @@
 	<center>You realize after you jump into the water that you see something underneath the surface that looks like a hole with light shining through, but you also see a tunnel in the distance that is slightly lit and just big enough for you to swim through. Which path do you choose to take?
 	<br>
 	<br>
-	<center><a href="../Choose Your own Adventure Story/choose5">Swim under water to go through the hole with light shining through...</a></center>
+	<center><a href="../Choose Your own Adventure Story/choose5.html">Swim under water to go through the hole with light shining through...</a></center>
 	<center>OR</center>
-	<center><a href="../Choose Your own Adventure Story/choose6">Swim through the tunnel...</a></center>
+	<center><a href="../Choose Your own Adventure Story/choose6.html">Swim through the tunnel...</a></center>
 	<p id="background3"></p>
 </body>
 </html>
