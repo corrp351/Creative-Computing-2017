@@ -1,22 +1,23 @@
 <html>
 <head>
 	<title>Choose Your Own Adventure Story</title>
-<link rel="stylesheet" href="StoryStyle.css">
+<link rel="stylesheet" href="../StoryStyle.css">
 </head>
+
 <body>
 	<br>
+	<center><img src="../Images/unicorn.jpg" width="700"></a></center>
 	<br>
+	<font color="pink">
+	<center>You reach the end of the tunnel you chose and see a unicorn in the distance. You think fast and see you have two options...</center>
 	<br>
-	<center><img src="../Choose Your own Adventure Story/Images/grotto.jpg" width="600"></a></center>
-	<br>
-	<font color="blue">
-	<center>Reaching the end of the hole you swam into, you resurface and find yourself in a grotto fit to become your home. You think about it and see you have two choices...</center>
-	<br>
-	<br>
-	<center><a href="../Choose Your own Adventure Story/Index.html">Just hang out for a little while and then swim back to the entrance of the cave.</a></center>
+	<center><a href="../Index.html">Run all the way back to the entrance of the cave.</a></center>
 	<center>OR</center>
-	<center><a href="../Choose Your own Adventure Story/Endings/Choose10a.html">Decide you are going to turn this grotto into your new home.</a></center>
-	<p id="background7"></p>
+	<center>Go up and pet the unicorn, creating a life long bond between you and it so whenever you think of it, it will come running to see you and protect you from harm.</a></center>
+	<br>
+	<font color="black">
+	<center><a href="../Index.html">The End</a></center>
+	<p id="background8"></p>
 </body>
 </html>
 
